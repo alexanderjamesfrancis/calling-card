@@ -1,2 +1,2 @@
 # calling-card
-Small demonstation piece using TailwindCSS
+Small demonstration piece using TailwindCSS
